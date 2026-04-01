@@ -1,0 +1,5 @@
+email:
+  enabled: false
+
+webhook:
+  enabled: false
